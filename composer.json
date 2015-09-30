@@ -1,0 +1,11 @@
+{
+    "require": {
+        "zither/memo": "dev-master",
+        "slim/slim": "@dev"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\":"app"
+        }
+    }
+}
